@@ -224,7 +224,7 @@ Depois disso passar para o arquivo que está o firebase. Por exemplo:
 <br>
 
 ## Login simples bem basica sem muito front
-![Tela](\Prints\loginsimples.png)
+![Tela](/Prints/loginsimples.png)
 
 
 :heavy_check_mark: **Email:admin@admin.com**
@@ -257,19 +257,19 @@ BEM SIMPLES APENAS PARA TESTE
 
 ## Verificação de Produtos
 
-![Verificação de Produtos](/Prints/verificarprodutos.png)
+![Verificação de Produtos](/Prints/Verificarprodutos.png)
 
 <br>
 
-![Verificação de Produtos](/Prints/verificarprodutos2.png)
+![Verificação de Produtos](/Prints/Verificarprodutos2.png)
 
 <br>
 
-![Verificação de Produtos](/Prints/verificarprodutos3.png)
+![Verificação de Produtos](/Prints/Verificarprodutos3.png)
 
 <br>
 
-![Verificação de Produtos](/Prints/verificarprodutos4.png)
+![Verificação de Produtos](/Prints/Verificarprodutos4.png)
 
 <br>
 
