@@ -71,10 +71,10 @@ Encontre seu produto desejado de forma rápida e eficiente.
 # ACESSO: 
 
 
-=====================
+
 :heavy_check_mark: **Email:admin@admin.com**
 :heavy_check_mark: **Senha: admin**
-=====================
+
 
 
 
