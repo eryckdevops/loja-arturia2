@@ -126,7 +126,7 @@ O site tem no total 16 páginas, sendo elas:
 
 Versão 1.0: :heavy_check_mark:
 
-:heavy_check_mark: Criação da Rotas;/
+:heavy_check_mark: Criação da Rotas;\
 :heavy_check_mark: Aplicação dos Estilos Globais;\
 :heavy_check_mark: Componente Header e Footer;\
 :heavy_check_mark: Consumo da API e Contexto da API;\
