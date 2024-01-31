@@ -223,6 +223,8 @@ Depois disso passar para o arquivo que está o firebase. Por exemplo:
 ====================
 <br>
 
+
+
 ## Login simples bem basica sem muito front
 ![Tela](/Prints/loginsimples.png)
 
@@ -238,13 +240,16 @@ Depois disso passar para o arquivo que está o firebase. Por exemplo:
 BEM SIMPLES APENAS PARA TESTE 
 <br>
 
+
+
+
 ## Produtos
 
-![produtos](/Prints/produtos.png)
+![produtos](/Prints/Produtos.png)
 
 <br>
 
-![produtos](/Prints/produtos2.png)
+![produtos](/Prints/Produtos2.png)
 
 <br>
 
@@ -255,23 +260,30 @@ BEM SIMPLES APENAS PARA TESTE
 ![produtos](/Prints/pesquisadeprodutos.png)
 
 
+
 ## Verificação de Produtos
 
 ![Verificação de Produtos](/Prints/Verificarprodutos.png)
+
 
 <br>
 
 ![Verificação de Produtos](/Prints/Verificarprodutos2.png)
 
+
 <br>
 
 ![Verificação de Produtos](/Prints/Verificarprodutos3.png)
+
 
 <br>
 
 ![Verificação de Produtos](/Prints/Verificarprodutos4.png)
 
 <br>
+
+
+
 
 ## Carrinho
 
@@ -290,6 +302,9 @@ BEM SIMPLES APENAS PARA TESTE
 ![Carrinho](/Prints/carrinho1.png)
 
 
+
+
+
 ## Compra
 
 ![Compra](/Prints/comprafinalizar.png)
@@ -299,14 +314,16 @@ BEM SIMPLES APENAS PARA TESTE
 ![Compra](/Prints/cartão.png)
 
 
-=====================
 :heavy_check_mark: **Cartão bem simples, apenas para mostrar a funcionalidade se quiser verificar outro aqui no meu github têm**
-=====================
+<br>
 <br>
 
 ![Compra](/Prints/pix.png)
 
 <br>
+
+
+
 
 ## Outros 
 
@@ -325,15 +342,7 @@ BEM SIMPLES APENAS PARA TESTE
 
 
 
-:heavy_check_mark: **Projeto desenvolvido para forma de habilidade**
-
-
-
-
-
-
-
-
+:heavy_check_mark: **Projeto desenvolvido simples só para teste de algumas funcionalidades**
 
 
 
@@ -345,7 +354,7 @@ BEM SIMPLES APENAS PARA TESTE
 
 ## 🤝 Desenvolvedor
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Software Engineer
 
 <table>
   <tr>
