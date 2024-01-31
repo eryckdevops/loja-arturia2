@@ -225,10 +225,10 @@ Depois disso passar para o arquivo que está o firebase. Por exemplo:
 ## Login simples bem basica sem muito front
 ![Tela](\Prints\loginsimples.png)
 
-=====================
+
 :heavy_check_mark: **Email:admin@admin.com**
 :heavy_check_mark: **Senha: admin**
-=====================
+
 <br>
 
 ![Tela](\Prints\registrar.png)
