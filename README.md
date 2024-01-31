@@ -73,6 +73,7 @@ Encontre seu produto desejado de forma rápida e eficiente.
 
 
 :heavy_check_mark: **Email:admin@admin.com**
+<br>
 :heavy_check_mark: **Senha: admin**
 
 
@@ -125,7 +126,7 @@ O site tem no total 16 páginas, sendo elas:
 
 Versão 1.0: :heavy_check_mark:
 
-:heavy_check_mark: Criação da Rotas;\
+:heavy_check_mark: Criação da Rotas;/
 :heavy_check_mark: Aplicação dos Estilos Globais;\
 :heavy_check_mark: Componente Header e Footer;\
 :heavy_check_mark: Consumo da API e Contexto da API;\
@@ -227,74 +228,75 @@ Depois disso passar para o arquivo que está o firebase. Por exemplo:
 
 
 :heavy_check_mark: **Email:admin@admin.com**
+<br>
 :heavy_check_mark: **Senha: admin**
 
 <br>
 
-![Tela](\Prints\registrar.png)
+![Tela](/Prints/registrar.png)
 
 BEM SIMPLES APENAS PARA TESTE 
 <br>
 
 ## Produtos
 
-![produtos](\Prints\produtos.png)
+![produtos](/Prints/produtos.png)
 
 <br>
 
-![produtos](\Prints\produtos2.png)
+![produtos](/Prints/produtos2.png)
 
 <br>
 
-![produtos](\Prints\produtos3.png)
+![produtos](/Prints/produtos3.png)
 
 <br>
 
-![produtos](\Prints\pesquisadeprodutos.png)
+![produtos](/Prints/pesquisadeprodutos.png)
 
 
 ## Verificação de Produtos
 
-![Verificação de Produtos](\Prints\verificaçãodeprodutos.png)
+![Verificação de Produtos](/Prints/verificaçãodeprodutos.png)
 
 <br>
 
-![Verificação de Produtos](\Prints\verificaçãodeprodutos2.png)
+![Verificação de Produtos](/Prints/verificaçãodeprodutos2.png)
 
 <br>
 
-![Verificação de Produtos](\Prints\verificaçãodeprodutos3.png)
+![Verificação de Produtos](/Prints/verificaçãodeprodutos3.png)
 
 <br>
 
-![Verificação de Produtos](\Prints\verificaçãodeprodutos4.png)
+![Verificação de Produtos](/Prints/verificaçãodeprodutos4.png)
 
 <br>
 
 ## Carrinho
 
-![Carrinho](\Prints\carrinhoverifcandoprodutosloja.png)
+![Carrinho](/Prints/carrinhoverifcandoprodutosloja.png)
 
 <br>
 
-![Carrinho](\Prints\carrinhoverifcandoprodutossemfrete.png)
+![Carrinho](/Prints/carrinhoverifcandoprodutossemfrete.png)
 
 <br>
 
-![Carrinho](\Prints\carrinho.png)
+![Carrinho](/Prints/carrinho.png)
 
 <br>
 
-![Carrinho](\Prints\carrinho1.png)
+![Carrinho](/Prints/carrinho1.png)
 
 
 ## Compra
 
-![Compra](\Prints\comprafinalizar.png)
+![Compra](/Prints/comprafinalizar.png)
 
 <br>
 
-![Compra](\Prints\cartão.png)
+![Compra](/Prints/cartão.png)
 
 
 =====================
@@ -302,21 +304,21 @@ BEM SIMPLES APENAS PARA TESTE
 =====================
 <br>
 
-![Compra](\Prints\pix.png)
+![Compra](/Prints/pix.png)
 
 <br>
 
 ## Outros 
 
-![Outros](\Prints\politica.png)
+![Outros](/Prints/politica.png)
 
 <br>
 
-![Outros](\Prints\contato.png)
+![Outros](/Prints/contato.png)
 
 <br>
 
-![Outros](\Prints\direitosautorais.png)
+![Outros](/Prints/direitosautorais.png)
 
 
 <br>
