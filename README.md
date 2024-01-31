@@ -257,19 +257,19 @@ BEM SIMPLES APENAS PARA TESTE
 
 ## Verificação de Produtos
 
-![Verificação de Produtos](/Prints/verificaçãodeprodutos.png)
+![Verificação de Produtos](/Prints/verificarprodutos.png)
 
 <br>
 
-![Verificação de Produtos](/Prints/verificaçãodeprodutos2.png)
+![Verificação de Produtos](/Prints/verificarprodutos2.png)
 
 <br>
 
-![Verificação de Produtos](/Prints/verificaçãodeprodutos3.png)
+![Verificação de Produtos](/Prints/verificarprodutos3.png)
 
 <br>
 
-![Verificação de Produtos](/Prints/verificaçãodeprodutos4.png)
+![Verificação de Produtos](/Prints/verificarprodutos4.png)
 
 <br>
 
